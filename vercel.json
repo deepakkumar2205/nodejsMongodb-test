@@ -1,0 +1,18 @@
+{
+    "builds":[
+        {
+            "src":"./index.js",
+            "use":"@vercel/node"
+        }
+    ],
+    "routes":[
+        {
+            "src":"/(.*)",
+            "dest":"/index.js"
+        }
+    ]
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> 7ca1f2ce1af0717f40e066529a473059233408b3

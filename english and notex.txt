@@ -1,0 +1,39 @@
+basically you can start from where you left off
+
+Some of features availabe in postman:
+text api
+save api
+share & collaborate
+test diffrent rest methods
+create documentation with ease
+text fields support mark down format.
+type of testing:  1) performance testing - tie taken
+                          2)stress testing  -no.of users
+                          3) load testing-Gdrive
+comments
+coe snippets
+it might say very week
+
+next js framework for react alternative for hiroku.
+versal is very fast compared to railway and render
+
+//install mongodb
+
+//top level await
+
+import  data from './data.json' assert {type:'json'};
+
+until ;1.32hours
+
+ONETIME READ FILE
+
+environment in it.
+config will change based on env.
+dev env
+qa 
+staging 
+production
+
+
+multer which is responsible to upload file in node json
+node mailer to send miler(library)
